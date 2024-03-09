@@ -1,3 +1,4 @@
-# Rock Paper Scissors
+# Rock Paper Scissors Algorithm
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+This is my solution of FreeCodeCamp's Machine Learning project "Rock Paper Scissors".
+The problem statement can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
